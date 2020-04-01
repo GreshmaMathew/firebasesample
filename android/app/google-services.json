@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "657834171984",
+    "firebase_url": "https://samp-91a33.firebaseio.com",
+    "project_id": "samp-91a33",
+    "storage_bucket": "samp-91a33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657834171984:android:18e0438dbc40178d28fb55",
+        "android_client_info": {
+          "package_name": "com.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657834171984-me2mg5i44oqvomg6k18fjkuad4e1l2a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLNuscRGffayEkuvL_aPdgc94UGmhQ0qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657834171984-me2mg5i44oqvomg6k18fjkuad4e1l2a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
